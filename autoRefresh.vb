@@ -1,5 +1,5 @@
 
-' scrip autialização de toda a planilha inclusive dados externos e planilhas dinamicas
+' scrip atualização de toda a planilha inclusive dados externos e planilhas dinamicas
 
 Sub RefreshPivotTables()
   'Objeto de tabela dinâmica
